@@ -4,12 +4,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:parkeunik@gmail.com)
 
 ## About Me
----
 
 I am a 3-year experienced ML Engineer specializing in making AI models lightweight, fast, and efficient. My primary focus is on Efficient AI, particularly Quantization. I optimize various models (Vision, Audio, LLM) for mobile, GPU, and NPU platforms.
 
 ## Skills
----
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,9 +27,8 @@ I am a 3-year experienced ML Engineer specializing in making AI models lightweig
 </div>
 
 ## Work Experience
----
 
-### ML Engineer @ SqueezeBits <img src="assets/logo_squeezebits.png" alt="SqueezeBits Logo" height="20"/>
+### ML Engineer @ SqueezeBits <img src="assets/logo_squeezebits.png" alt="SqueezeBits Logo" height="15"/>
 
 *06/2022 - Present*
 
@@ -39,15 +36,14 @@ I am a 3-year experienced ML Engineer specializing in making AI models lightweig
 - Enhancing performance-speed trade-offs through PTQ and QAT
 - Conducted benchmarking of vLLM and TensorRT-LLM serving
 
-### Internship @ LG CNS <img src="assets/logo_lgcns.svg" alt="LG CNS Logo" height="20"/>
+### Internship @ LG CNS <img src="assets/logo_lgcns.svg" alt="LG CNS Logo" height="15"/>
 *07/2021 - 08/2021*
 
 - Built AWS 3-tier web service using Terraform
 
 ## Projects
----
 
-### <img src="assets/logo_owlite.png" alt="owlite_logo" height="20"/> OwLite
+### <img src="assets/logo_owlite.png" alt="owlite_logo" height="15"/> OwLite
 *08/2023 - Present*
 
 **[[Website](https://owlite.ai)]**
@@ -59,7 +55,7 @@ I am a 3-year experienced ML Engineer specializing in making AI models lightweig
 - Produced various examples and identified optimization patterns
 
 
-### <img src="assets/logo_fitsonchips.png" alt="fistonchips_logo" height="20"/> Fits-on-Chips
+### <img src="assets/logo_fitsonchips.png" alt="fistonchips_logo" height="15"/> Fits-on-Chips
 *02/2024 - 06/2024*
 
 **[[Website](https://fits-on-chips.com)]**
@@ -79,7 +75,6 @@ I am a 3-year experienced ML Engineer specializing in making AI models lightweig
 - Achieved 97.9% accuracy with 183μs latency on Galaxy S10 CPU
 
 ## Education
----
 ### POSTECH
 - Bachelor's in IT Convergence Engineering
 - 03/2016 - 09/2023
