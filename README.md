@@ -17,7 +17,8 @@ I am a 3-year experienced ML Engineer specializing in making AI models lightweig
 ![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 <br>
-![vLLM](https://img.shields.io/badge/vLLM-ffffff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPnZMTE08L3RpdGxlPjxwYXRoIGQ9Ik0wIDQuOTczaDkuMzI0VjIzTDAgNC45NzN6IiBmaWxsPSIjRkRCNTE1Ij48L3BhdGg+PHBhdGggZD0iTTEzLjk4NiA0LjM1MUwyMi4zNzggMGwtNi4yMTYgMjNIOS4zMjRsNC42NjItMTguNjQ5eiIgZmlsbD0iIzMwQTJGRiI+PC9wYXRoPjwvc3ZnPg==&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-719FF4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIiBoZWlnaHQ9IjFlbSIgc3R5bGU9ImZsZXg6bm9uZTtsaW5lLWhlaWdodDoxIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxZW0iPjx0aXRsZT52TExNPC90aXRsZT48cGF0aCBkPSJNMCA0Ljk3M2g5LjMyNFYyM0wwIDQuOTczeiIgZmlsbD0iI2ZmZmZmZiIvPjxwYXRoIGQ9Ik0xMy45ODYgNC4zNTFMMjIuMzc4IDBsLTYuMjE2IDIzSDkuMzI0bDQuNjYyLTE4LjY0OXoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 <br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
